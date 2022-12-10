@@ -6,4 +6,4 @@ Hi I am Conrad Lukawski!
 
   - Bring Computer Science/Cryptography Expertise to Parliament: I will use my knowledge in cryptography to apply the concept of “zero-knowledge proofs” to parliamentary procedure, we will create secure “zero-knowledge” laws: in which we can pass laws that nobody understands and nobody can enforce. This will protect the integrity of the Canadian justice system.
 
-  - Address Housing Crisis Introduce Zero-housing policy in the GTA, I will task the federal government with a policy to take away everyone's house, so everyone can live in one big wide open space
+  - Address Housing Crisis Introduce Zero-housing policy in the GTA, I will task the federal government with a policy to take away everyone's house, so everyone can live in one big wide open space.
